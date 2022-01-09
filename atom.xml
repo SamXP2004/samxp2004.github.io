@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://bxcode.io</id>
     <title>BX Code</title>
-    <updated>2022-01-09T15:40:07.911Z</updated>
+    <updated>2022-01-09T15:56:38.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://bxcode.io"/>
     <link rel="self" href="http://bxcode.io/atom.xml"/>
@@ -10,4 +10,25 @@
     <logo>http://bxcode.io/images/avatar.png</logo>
     <icon>http://bxcode.io/favicon.ico</icon>
     <rights>All rights reserved 2022, BX Code</rights>
+    <entry>
+        <title type="html"><![CDATA[2022.1.9]]></title>
+        <id>http://bxcode.io/202219/</id>
+        <link href="http://bxcode.io/202219/">
+        </link>
+        <updated>2022-01-09T15:40:18.000Z</updated>
+        <content type="html"><![CDATA[<p>尝试安装 Gridea 来给Hexo 部署的Blog 作为写作工具</p>
+<p>也是第一次尝试 Markdown 的方式来写作。</p>
+<h3 id="httpbxcodeio">http://bxcode.io/</h3>
+<p>One More Thing<br>
+我今年要立的几个flag</p>
+<hr>
+<blockquote>
+<p><em><strong>写blog</strong></em></p>
+<p><em><strong>做一个产品</strong></em></p>
+</blockquote>
+<p>{% blockquote David Levithan, Wide Awake %}<br>
+Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.<br>
+{% endblockquote %}</p>
+]]></content>
+    </entry>
 </feed>
