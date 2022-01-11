@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://bxcode.io</id>
     <title>BX Code</title>
-    <updated>2022-01-10T15:37:29.920Z</updated>
+    <updated>2022-01-11T15:42:39.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://bxcode.io"/>
     <link rel="self" href="http://bxcode.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>http://bxcode.io/images/avatar.png</logo>
     <icon>http://bxcode.io/favicon.ico</icon>
     <rights>All rights reserved 2022, BX Code</rights>
+    <entry>
+        <title type="html"><![CDATA[2022.1.11 - 我对于web3.0的一两点思考]]></title>
+        <id>http://bxcode.io/2022111-wo-dui-yu-web30-de-yi-liang-dian-si-kao/</id>
+        <link href="http://bxcode.io/2022111-wo-dui-yu-web30-de-yi-liang-dian-si-kao/">
+        </link>
+        <updated>2022-01-11T15:37:19.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="什么是web30">什么是web3.0</h2>
+<p>最近互联网圈一股脑掀起元宇宙，顺带币圈都在追web3.0 、NFT数字艺术品。眼花缭乱。</p>
+<p>曾有个图说的很清楚<br>
+web1.0  时代就是 浏览器上网时代<br>
+web2.0 就是SNS社交互联时代<br>
+web3.0  就是去中心化的时代</p>
+<h2 id="为什么是web30">为什么是web3.0</h2>
+<p>一句话：资本需要</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022.1.9]]></title>
         <id>http://bxcode.io/202219/</id>
